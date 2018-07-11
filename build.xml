@@ -1,0 +1,7 @@
+<project name="hari5" default="WAR-build" basedir=".">
+	<description>hari5 - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
